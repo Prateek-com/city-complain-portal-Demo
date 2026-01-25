@@ -22,3 +22,13 @@ City authority workers can log in to manage, track, and resolve complaints.
 
 ## Tech Stack
 (To be added)
+city-complain-portal/
+│
+├── backend/
+│   └── README.md
+│
+├── frontend/
+│   └── README.md
+│
+└── docs/
+    └── project-plan.md
