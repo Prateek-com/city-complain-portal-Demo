@@ -45,3 +45,18 @@ Ticket ID shown to user
 example-TKT-2026-00045
 NOW Development Authority.
 SUBMITTED → IN_PROGRESS → RESOLVED → CLOSED
+
+
+## System Design (How it Works)
+
+This project is designed with a simple two-entity architecture.
+
+Public users can submit city-related complaints without creating an account.
+Once a complaint is submitted, the system generates a unique ticket ID that can be used to track the complaint status.
+
+The City Development Authority operates through a single secure admin account.
+All complaints submitted by the public are stored in a centralized database and are visible on the authority dashboard.
+The authority manually reviews each complaint and updates its status.
+
+There is no direct interaction between users and the authority.
+All communication happens through the system using ticket IDs and status updates.
