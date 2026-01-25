@@ -32,3 +32,14 @@ city-complain-portal/
 │
 └── docs/
     └── project-plan.md
+    Public side
+Public User
+   ↓
+Complaint Form Submit
+   ↓
+System generates Ticket ID
+   ↓
+Complaint saved in Database
+   ↓
+Ticket ID shown to user
+example-TKT-2026-00045
