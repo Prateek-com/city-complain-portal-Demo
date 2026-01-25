@@ -43,3 +43,5 @@ Complaint saved in Database
    ↓
 Ticket ID shown to user
 example-TKT-2026-00045
+NOW Development Authority.
+SUBMITTED → IN_PROGRESS → RESOLVED → CLOSED
