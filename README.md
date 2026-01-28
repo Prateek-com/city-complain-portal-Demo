@@ -7,3 +7,4 @@ This project is in initial development phase.
 - Frontend setup started
 - Backend base initialized
 - Features will be added incrementally
+index.html has been added as part of the initial frontend setup.
