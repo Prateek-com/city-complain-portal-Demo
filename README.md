@@ -8,3 +8,25 @@ This project is in initial development phase.
 - Backend base initialized
 - Features will be added incrementally
 index.html has been added as part of the initial frontend setup.
+
+# City Complaint Portal – Demo
+
+⚠️ **Note (Work in Progress)**
+
+This repository is currently in the **early learning and setup phase**.
+
+Some files like `index.css` and `main.tsx` are being uploaded **randomly for practice purposes**, to:
+- understand GitHub workflow
+- practice file structure
+- test frontend setup
+- keep the repository active during development
+
+These files **do not represent the final structure or implementation** of the project.
+
+The actual development will start step by step very soon, and files may be changed, removed, or reorganized at any time.
+
+📌 This project is being built as a **college / learning project**, and improvements will be pushed gradually.
+
+---
+
+Thanks for visiting 🚀
