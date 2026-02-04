@@ -30,3 +30,8 @@ The actual development will start step by step very soon, and files may be chang
 ---
 
 Thanks for visiting 🚀
+Today 4/02/2026
+## Project Status
+
+The frontend part of this project has been implemented.  
+Some minor bugs are currently present, which will be fixed soon.
