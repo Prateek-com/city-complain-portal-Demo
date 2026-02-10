@@ -37,3 +37,4 @@ The frontend part of this project has been implemented.
 Some minor bugs are currently present, which will be fixed soon.
 
 The backend is under active development and is being built alongside the server integration.
+I Have done forntend . but still some part also need some time for review
