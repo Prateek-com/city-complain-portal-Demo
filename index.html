@@ -13,3 +13,8 @@
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
+const handleSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (searchTicket.trim()) {
+      setQuery(searchTicket.trim());
+    }
